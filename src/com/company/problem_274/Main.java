@@ -37,7 +37,6 @@ public class Main {
                 cnt++;
             }
         }
-
         return (cnt >= h);
     }
 }
